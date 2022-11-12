@@ -19,7 +19,7 @@
   "homepage": "https://github.com/romannovojilov/config-from-html#readme",
   "devDependencies": {
     "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0"
   }
 }
